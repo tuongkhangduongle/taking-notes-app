@@ -20,9 +20,9 @@ yarn start
 5. Sau đó, mã QR xuất hiện, mở ứng dụng expo và quét mã để sử dụng ứng dụng
 
 ### Phát triển ứng dụng trên thiết bị di động riêng
-Đảm bảo đủ điều kiện phát triển ứng dụng theo (mô tả)[https://reactnative.dev/docs/environment-setup]
-1. Tải xuống mã nguồn (tại đây)[https://drive.google.com/drive/folders/1NbLnStG8H9mmRwN32GE5z1fR8jiEGqOh?usp=sharing]
-2. Thực hiện liên kết điện thoại và máy tính phát triển ứng dụng theo hướng dẫn (tại đây)[https://reactnative.dev/docs/running-on-device]
+Đảm bảo đủ điều kiện phát triển ứng dụng theo [mô tả](https://reactnative.dev/docs/environment-setup)
+1. Tải xuống mã nguồn [tại đây](https://drive.google.com/drive/folders/1NbLnStG8H9mmRwN32GE5z1fR8jiEGqOh?usp=sharing)
+2. Thực hiện liên kết điện thoại và máy tính phát triển ứng dụng theo hướng dẫn [tại đây](https://reactnative.dev/docs/running-on-device)
 3. Mở command prompt tại mã nguồn của chương trình, nhập lệnh:
 ```
 npm install
